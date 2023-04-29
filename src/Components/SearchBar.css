@@ -1,0 +1,21 @@
+.input-Wrapper{
+    background-color: white;
+    width: 100%;
+    border-radius: 5px;
+    height: 2rem;
+    box-shadow: 0px 0px 3px rgb(231, 194, 194);
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+input{
+    background-color: transparent;
+    border: none;
+    height: 100%;
+    width: 100%;
+    font-size: 1.3rem;
+    margin-left: 5px;
+}
+input:focus{
+    outline: none;
+}

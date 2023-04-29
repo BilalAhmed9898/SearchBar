@@ -1,0 +1,7 @@
+.Results{
+        padding: 10px 20px;
+}
+.Results:hover{
+    background-color: #efefef;
+    cursor: pointer;
+}
